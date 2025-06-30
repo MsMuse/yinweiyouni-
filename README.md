@@ -13,6 +13,6 @@
 用户通过下载源码修改一些路径便可直接使用，要修改的部分为：
 （1）将piano-interface.pro中INCLUDEPATH中路径改为自己的vcpkg路径\installed\x64-windows\include，LIBS改为-L自己的vcpkg路径\installed\x64-windows\lib。
 （2)用户需下载音色库文件GeneralUser-GS.sf2，将OutputHandler.cpp中file_path改为自己GeneralUser-GS.sf2音色文件的路径。
-网盘链接：https://disk.pku.edu.cn/link/AA1580C91F752A4BD2A5BD61BF24E69979
-文件名：56-演示.mp4
+https://disk.pku.edu.cn/link/AA28DEE290083848249FC665D059796A8A
+文件夹名：56-演示和报告
 有效期限：永久有效
