@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.png</file>
+        <file>birthday.png</file>
+        <file>blackpress.png</file>
+        <file>keyboard_image.png</file>
+        <file>star.png</file>
+        <file>tiger.png</file>
+        <file>whitepress.png</file>
+        <file>b1.jpg</file>
+        <file>b2.jpg</file>
+        <file>b3.jpg</file>
+        <file>b4.jpg</file>
+        <file>keyboard.png</file>
+    </qresource>
+    <qresource prefix="/docs">
+        <file>help.docx</file>
+    </qresource>
+</RCC>
